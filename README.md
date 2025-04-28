@@ -3,7 +3,7 @@
 <h3 align="center">Repositorio de Cursos en Activo</h3>
 
 - Actualmente...
-- 🌱 Programa de Becas Google Fundae Sepe. Análisis de Datos | Septiembre 2024 | Ibm Skillsbuild
+- 🌱 Programa de Habilidades de GitHub Aprenda a usar GitHub con cursos interactivos diseñados para principiantes y expertos.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
