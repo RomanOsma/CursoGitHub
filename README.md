@@ -6,7 +6,7 @@
   
 📌 Este repositorio agrupa los ejercicios realizados en la plataforma oficial GitHub Skills.
 
-🔍 Cada carpeta en el directorio ejercicios/ corresponde a un curso o lección específico.
+🔍 Cada carpeta en el directorio corresponde a un curso o lección específico.
 
 🎯 Objetivo: practicar y consolidar conceptos de Git, GitHub y flujos de trabajo de desarrollo.
 
